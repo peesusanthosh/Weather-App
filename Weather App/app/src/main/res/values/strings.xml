@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HW05</string>
+    <string name="btnsubmit">Submit</string>
+    <string name="txtmaxtemp">Max Temperature:</string>
+    <string name="txtmintemp">Min Temperature:</string>
+    <string name="txtfeelslike">Feels Like:</string>
+    <string name="txthumidity">Humidity:</string>
+    <string name="txtdewpoint">Dew Point:</string>
+    <string name="txtpressure">Pressure:</string>
+    <string name="txtclouds">Clouds:</string>
+    <string name="txtwinds">Winds:</string>
+    <string name="menu">menu</string>
+    <string name="AddtoFavourites">Add To Favourites</string>
+</resources>
